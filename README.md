@@ -12,4 +12,4 @@ However, if you find these projects valuable, a mention or acknowledgment would 
 In case you encounter any missing libraries, you can easily install them using PowerShell commands.
 
 # Example for installing ttkbootstrap
-pip install ttkbootstrap
+-pip install ttkbootstrap
